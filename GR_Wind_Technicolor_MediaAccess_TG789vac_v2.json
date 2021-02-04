@@ -1,0 +1,219 @@
+{
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.Enable": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.ManagementServer.URL": ["http://tr069.tellas.gr:8084/cwmpWeb/CPEMgt", "xsd:string"],
+    "InternetGatewayDevice.ManagementServer.Username": [
+        "T3cHn1c070&4aC$",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.ManagementServer.Password": [
+        "T3cHn1c070&$p&sSwD",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.SSID": [
+        "Powered by RouterHAK",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.Status": [
+        "Up",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.RadioEnabled": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.Standard": [
+        "a,ac",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.Channel": [
+        36,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.BeaconType": [
+        "WPAand11i",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.SSIDAdvertisementEnabled": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.TotalBytesSent": [
+        0,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.TotalBytesReceived": [
+        0,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AutoChannelEnable": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Enable": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.SSID": [
+        "Powered by RouterHAK",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Status": [
+        "Up",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.RadioEnabled": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Standard": [
+        "b,g,n",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel": [
+        6,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.BeaconType": [
+        "WPAand11i",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.SSIDAdvertisementEnabled": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.TotalBytesSent": [
+        0,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.TotalBytesReceived": [
+        0,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AutoChannelEnable": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.DeviceInfo.ModelName": [
+        "MediaAccess TG789vac v2",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Username": [
+        "Winduser@tellas.gr",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Password": [
+        "tellas",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.WANPPPConnection.1.Username": [
+        "Winduser@tellas.gr",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.WANPPPConnection.1.Password": [
+        "tellas",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.1.Username": [
+        "Winduser@tellas.gr",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.1.Password": [
+        "tellas",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.Manufacturer": [
+        "Technicolor",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.ManufacturerOUI": [
+        "E0B9E5",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.ProductClass": [
+        "MediaAccess TG789vac v2",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.SerialNumber": [
+        "SN",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.ManagementServer.PeriodicInformEnable": [
+        true,
+        "xsd:boolean"
+    ],
+    "InternetGatewayDevice.ManagementServer.PeriodicInformInterval": [
+        21600,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.2.ExternalIPAddress": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.AdditionalHardwareVersion": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.HardwareVersion": [
+        "VANT-6",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.ProvisioningCode": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.SoftwareVersion": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.SpecVersion": [
+        "1.0",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.DeviceInfo.UpTime": [
+        60,
+        "xsd:unsignedInt"
+    ],
+    "InternetGatewayDevice.DeviceSummary": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.ManagementServer.ConnectionRequestURL": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.ManagementServer.ParameterKey": [
+        "",
+        "xsd:string"
+    ],
+    "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.2.MACAddress": [
+        "FF:FF:FF:FF:FF:FF",
+        "xsd:string"
+    ],
+    "RouterHAK.PPP.Username": [
+		"Winduser@tellas.gr",
+		"xsd:string"
+	],
+	"RouterHAK.PPP.Password": [
+		"tellas",
+		"xsd:string"
+	],
+	"RouterHAK.CreatePPP": [
+		true,
+		"xsd:boolean"
+	],
+    "RouterHAK.IPpath": [
+		"InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.2.ExternalIPAddress",
+		"xsd:string"
+    ],
+	"RouterHAK.Version": [
+		"1.0.0.0",
+		"xsd:string"
+	],
+	"RouterHAK.Notes": [
+		"Make sure to supply your OWN router serial number (found under the router) else provisioning will fail.\n\nYou MUST have the exact same router as listed in this model.\n\nFirmware version can be left blank.",
+		"xsd:string"
+	]
+}

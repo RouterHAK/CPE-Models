@@ -1,0 +1,759 @@
+{
+  "InternetGatewayDevice.DeviceSummary": [
+    "InternetGatewayDevice:1.1[](Baseline:1, UDPConnReq:1, Time:1, EthernetLAN:1, USBLAN:1, WiFiLAN:1, ADSLWAN:1, EthernetWAN:1, Bridging:1)",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.Manufacturer": [
+    "OTE",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.ManufacturerOUI": [
+    "00C002",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.ProductClass": [
+    "Speedport W724V Type Ci B",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.SerialNumber": [
+    "SN",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.ModelName": [
+    "Speedport W 724V",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.HardwareVersion": [
+    "001",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.ProvisioningCode": [
+    "000.000.000.000",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.SoftwareVersion": [
+    "09071602.00.023B",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.SpecVersion": [
+    "1.0",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.DeviceInfo.UpTime": [
+    120,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.ManagementServer.ParameterKey": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.ManagementServer.PeriodicInformEnable": [
+    1,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.ManagementServer.PeriodicInformInterval": [
+    21600,
+    "xsd:integer"
+  ],
+  "InternetGatewayDevice.ManagementServer.ConnectionRequestURL": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.ManagementServer.URL": [
+    "http://tr069.otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Username": [
+    "otenet@otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1.Password": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.WANPPPConnection.1.Username": [
+    "otenet@otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.WANPPPConnection.1.Password": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.1.Username": [
+    "otenet@otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.1.Password": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.5.WANPPPConnection.1.Username": [
+    "otenet@otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.5.WANPPPConnection.1.Password": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_MinimumNumberOfDigits": [
+    9,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_MaximumNumberOfDigits": [
+    24,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_Prefixdigit": [
+    "00",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.1.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_MinimumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_MaximumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_Prefixdigit": [
+    2,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.2.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_MinimumNumberOfDigits": [
+    7,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_MaximumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_Prefixdigit": [
+    5,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.3.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_MinimumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_MaximumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_Prefixdigit": [
+    6,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.4.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_MinimumNumberOfDigits": [
+    7,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_MaximumNumberOfDigits": [
+    24,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_Prefixdigit": [
+    7,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.5.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_MinimumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_MaximumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_Prefixdigit": [
+    8,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.6.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_MinimumNumberOfDigits": [
+    7,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_MaximumNumberOfDigits": [
+    7,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_Prefixdigit": [
+    807,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.7.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_EntryID": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_MinimumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_MaximumNumberOfDigits": [
+    10,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_NumberOfDigitsToRemove": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_Prefixdigit": [
+    9,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_DigitToAdd": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_DialPlan.8.X_SC_DefaultAccount": [
+    "All",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.LANDevice.1.LANEthernetInterfaceConfig.2.MACAddress": "FF:FF:FF:FF:FF:FF",
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Reset": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.NumberOfLines": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Name": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SignalingProtocol": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.MaxSessions": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.DTMFMethod": [
+    "InBand",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.DTMFMethodG711": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_EchoCancellationEnable": [
+    true,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_JitterBuffer": [
+    "Adaptive",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_MinJitterBuffer": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.X_SC_MaxJitterBuffer": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Region": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.DigitMap": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.DigitMapEnable": [
+    true,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.STUNEnable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.STUNServer": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.NonVoiceBandwidthReservedUpstream": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.NonVoiceBandwidthReservedDownstream": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.PSTNFailOver": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxPassThrough": [
+    "Auto",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.ModemPassThrough": [
+    "Auto",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.ProxyServer": [
+    "ims.otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.ProxyServerPort": [
+    5060,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.ProxyServerTransport": [
+    "UDP",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServer": [
+    "ims.otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServerPort": [
+    5060,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServerTransport": [
+    "UDP",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.UserAgentDomain": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.UserAgentPort": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.UserAgentTransport": [
+    "UDP",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.OutboundProxy": [
+    "ims.otenet.gr",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.OutboundProxyPort": [
+    5060,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.Organization": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrationPeriod": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_SecondaryProxyServer": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_SecondaryProxyServerPort": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_SecondaryOutboundProxy": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_LinkTestEnable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_LinkTestInterval": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_DNSsrvEnable": [
+    true,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerT1": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerT2": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerT4": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerA": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerB": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerC": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerD": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerE": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerF": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerG": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerH": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerI": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerJ": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.TimerK": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.InviteExpires": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.ReInviteExpires": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegisterExpires": [
+    900,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegisterRetryInterval": [
+    900,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.InboundAuth": [
+    "None",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.InboundAuthUsername": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.InboundAuthPassword": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.UseCodecPriorityInSDPResponse": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.DSCPMark": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.VLANIDMark": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.EthernetPriorityMark": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.SIPEventSubscribeNumberOfElements": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.SIPResponseMapNumberOfElements": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.X_SC_ServerName": [
+    "OTE",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.LocalPortMin": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.LocalPortMax": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.DSCPMark": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.VLANIDMark": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.EthernetPriorityMark": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.TelephoneEventPayloadType": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.RTCP.Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.RTCP.TxRepeatInterval": [
+    "",
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.RTCP.LocalCName": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.SRTP.Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.SRTP.KeyingMethods": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.SRTP.EncryptionKeySizes": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.PayloadType": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.BlockPayloadType": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.FaxAndModemRedundancy": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.ModemRedundancy": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.DTMFRedundancy": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.VoiceRedundancy": [
+    -1,
+    "xsd:int"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.RTP.Redundancy.MaxSessionsUsingRedundancy": [
+    0,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxT38.Enable": [
+    false,
+    "xsd:boolean"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxT38.BitRate": [
+    "14400",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxT38.HighSpeedPacketRate": [
+    "20",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxT38.HighSpeedRedundancy": [
+    1,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxT38.LowSpeedRedundancy": [
+    3,
+    "xsd:unsignedInt"
+  ],
+  "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.FaxT38.TCFMethod": [
+    "",
+    "xsd:string"
+  ],
+  "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.WANPPPConnection.1.ExternalIPAddress": [
+    "",
+    "xsd:string"
+  ],
+  "RouterHAK.PPP.Username": [
+    "otenet@otenet.gr",
+    "xsd:string"
+  ],
+  "RouterHAK.PPP.Password": [
+    "otenet",
+    "xsd:string"
+  ],
+  "RouterHAK.CreatePPP": [
+    true,
+    "xsd:boolean"
+  ],
+  "RouterHAK.IPpath": [
+    "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.WANPPPConnection.1.ExternalIPAddress",
+    "xsd:string"
+  ],
+  "RouterHAK.Version": [
+    "1.0.0.0",
+    "xsd:string"
+  ]
+}

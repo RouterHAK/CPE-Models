@@ -1,0 +1,254 @@
+{
+	"InternetGatewayDevice.DeviceInfo.Manufacturer": [
+		"ZTE",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.ManufacturerOUI": [
+		"E01954",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.ProductClass": [
+		"H288A",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.SerialNumber": [
+		"SN",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceSummary": [
+		"InternetGatewayDevice:1.4[](Baseline:1,EthernetLAN:1,USBLAN:1,WiFiLAN:1,ADSLWAN:1,EthernetWAN:1,Time:1,IPPing:1,ATMLoopback:1,DSLDiagnostics:1),VOICEService:1.0[1](Baseline:1),STBService:1.0[1](Baseline:1),ECOService:1.0[1](Baseline:1)",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.SpecVersion": [
+		"1.1",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.HardwareVersion": [
+		"V1.1.0",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.SoftwareVersion": [
+		"V1.1.0_GR5.1T14",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.ProvisioningCode": [
+		"H288A",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.ConnectionRequestURL": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.ParameterKey": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.1.ExternalIPAddress": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.EnableCWMP": [
+		1,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.ManagementServer.URL": [
+		"http://acs.forthnet.gr:7547/",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.Username": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.Password": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.PeriodicInformEnable": [
+		1,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.ManagementServer.PeriodicInformInterval": [
+		21600,
+		"xsd:unsignedInt"
+	],
+	"InternetGatewayDevice.ManagementServer.PeriodicInformTime": [
+		"0001-01-01T00:00:00Z",
+		"xsd:dateTime"
+	],
+	"InternetGatewayDevice.ManagementServer.ConnectionRequestUsername": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.ConnectionRequestPassword": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.ManagementServer.UpgradesManaged": [
+		0,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.ManagementServer.X_ZTE-COM_CertificateEnable": [
+		0,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.ManagementServer.CWMPRetryMinimumWaitInterval": [
+		5,
+		"xsd:unsignedInt"
+	],
+	"InternetGatewayDevice.ManagementServer.CWMPRetryIntervalMultiplier": [
+		2000,
+		"xsd:unsignedInt"
+	],
+	"InternetGatewayDevice.ManagementServer.InformParameterNumberOfEntries": [
+		0,
+		"xsd:unsignedInt"
+	],
+	"InternetGatewayDevice.DeviceInfo.ModelName": [
+		"H288A",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.Description": [
+		"ZTE H288A",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.ModemFirmwareVersion": [
+		"5.12.23.0.A_A60901",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.AdditionalHardwareVersion": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.AdditionalSoftwareVersion": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.UpTime": [
+		42,
+		"xsd:unsignedInt"
+	],
+	"InternetGatewayDevice.DeviceInfo.FirstUseDate": [
+		"0001-01-01T00:00:00Z",
+		"xsd:dateTime"
+	],
+	"InternetGatewayDevice.DeviceInfo.DeviceLog": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_IPv6Enabled": [
+		1,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_AdminAccount.Enable": [
+		1,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_AdminAccount.Username": [
+		"forthnet",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_AdminAccount.Password": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_Remotelog.Enable": [
+		0,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_Remotelog.LogServer": [
+		"0.0.0.0",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_Securitylog.Enable": [
+		0,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_Syslog.Enable": [
+		0,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_Syslog.Level": [
+		"4",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_UserAccount.Enable": [
+		1,
+		"xsd:boolean"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_UserAccount.Username": [
+		"user",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.DeviceInfo.X_ZTE-COM_UserAccount.Password": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.WANDevice.1.WANConnectionDevice.2.WANPPPConnection.1.Username": [
+		"acs-default@forthnet.gr",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.1.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.2.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.3.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.4.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.5.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.6.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.7.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.8.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.9.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.10.SIP.URI": [
+		"",
+		"xsd:string"
+	],
+	"RouterHAK.PPP.Username": [
+		"acs-default@forthnet.gr",
+		"xsd:string"
+	],
+	"RouterHAK.PPP.Password": [
+		"acs-default",
+		"xsd:string"
+	],
+	"RouterHAK.CreatePPP": [
+		true,
+		"xsd:boolean"
+	],
+	"RouterHAK.IPpath": [
+		"InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.1.ExternalIPAddress",
+		"xsd:string"
+	],
+	"RouterHAK.Version": [
+		"1.0.0.0",
+		"xsd:string"
+	],
+	"RouterHAK.Notes": [
+		"Your router must be set to bridge mode as Forthnet only allows 1 active PPP connection at a time.",
+		"xsd:string"
+	]
+}
