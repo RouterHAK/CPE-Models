@@ -240,7 +240,7 @@
 		"xsd:string"
 	],
 	"RouterHAK.CreatePPP": [
-		false,
+		true,
 		"xsd:boolean"
 	],
 	"RouterHAK.IPpath": [
