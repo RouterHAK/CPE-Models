@@ -736,6 +736,10 @@
     "",
     "xsd:string"
   ],
+  "RouterHAK.Module": [
+    "axiros-emulator.exe",
+    "xsd:string"
+  ],
   "RouterHAK.PPP.Username": [
     "otenet@otenet.gr",
     "xsd:string"

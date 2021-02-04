@@ -227,6 +227,10 @@
 		"",
 		"xsd:string"
 	],
+	"RouterHAK.Module": [
+		"axiros-emulator.exe",
+		"xsd:string"
+	],
 	"RouterHAK.PPP.Username": [
 		"acs-default@forthnet.gr",
 		"xsd:string"

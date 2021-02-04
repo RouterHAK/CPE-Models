@@ -3,7 +3,10 @@
         true,
         "xsd:boolean"
     ],
-    "InternetGatewayDevice.ManagementServer.URL": ["http://tr069.tellas.gr:8084/cwmpWeb/CPEMgt", "xsd:string"],
+    "InternetGatewayDevice.ManagementServer.URL": [
+        "http://tr069.tellas.gr:8084/cwmpWeb/CPEMgt",
+        "xsd:string"
+    ],
     "InternetGatewayDevice.ManagementServer.Username": [
         "T3cHn1c070&4aC$",
         "xsd:string"
@@ -192,28 +195,32 @@
         "FF:FF:FF:FF:FF:FF",
         "xsd:string"
     ],
-    "RouterHAK.PPP.Username": [
-		"Winduser@tellas.gr",
-		"xsd:string"
-	],
-	"RouterHAK.PPP.Password": [
-		"tellas",
-		"xsd:string"
-	],
-	"RouterHAK.CreatePPP": [
-		true,
-		"xsd:boolean"
-	],
-    "RouterHAK.IPpath": [
-		"InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.2.ExternalIPAddress",
-		"xsd:string"
+    "RouterHAK.Module": [
+        "axiros-emulator.exe",
+        "xsd:string"
     ],
-	"RouterHAK.Version": [
-		"1.0.0.0",
-		"xsd:string"
-	],
-	"RouterHAK.Notes": [
-		"Make sure to supply your OWN router serial number (found under the router) else provisioning will fail.\n\nYou MUST have the exact same router as listed in this model.\n\nFirmware version can be left blank.",
-		"xsd:string"
-	]
+    "RouterHAK.PPP.Username": [
+        "Winduser@tellas.gr",
+        "xsd:string"
+    ],
+    "RouterHAK.PPP.Password": [
+        "tellas",
+        "xsd:string"
+    ],
+    "RouterHAK.CreatePPP": [
+        true,
+        "xsd:boolean"
+    ],
+    "RouterHAK.IPpath": [
+        "InternetGatewayDevice.WANDevice.2.WANConnectionDevice.1.WANPPPConnection.2.ExternalIPAddress",
+        "xsd:string"
+    ],
+    "RouterHAK.Version": [
+        "1.0.0.0",
+        "xsd:string"
+    ],
+    "RouterHAK.Notes": [
+        "Make sure to supply your OWN router serial number (found under the router) else provisioning will fail.\n\nYou MUST have the exact same router as listed in this model.\n\nFirmware version can be left blank.",
+        "xsd:string"
+    ]
 }
