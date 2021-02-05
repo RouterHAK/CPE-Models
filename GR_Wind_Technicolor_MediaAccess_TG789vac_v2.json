@@ -220,7 +220,7 @@
         "xsd:string"
     ],
     "RouterHAK.Notes": [
-        "Make sure to supply your OWN router serial number (found under the router) else provisioning will fail.\n\nYou MUST have the exact same router as listed in this model.\n\nFirmware version can be left blank.",
+        "Make sure to supply your OWN router serial number (found under the router) else provisioning will fail.\n\nYou MUST have the exact same router as listed in this model.\n\nFirmware version can be left blank.\n\nWind's ACS server is a bit picky, so you may have to run the provisioning process a few times.",
         "xsd:string"
     ]
 }
