@@ -196,7 +196,7 @@
         "xsd:string"
     ],
     "RouterHAK.Module": [
-        "axiros-emulator.exe",
+        "java-acs-emulator.exe",
         "xsd:string"
     ],
     "RouterHAK.PPP.Username": [
