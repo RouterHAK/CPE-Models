@@ -444,7 +444,7 @@
     "xsd:string"
   ],
   "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.ProxyServer": [
-    "",
+    "ims.otenet.gr",
     "xsd:string"
   ],
   "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.ProxyServerPort": [
@@ -456,7 +456,7 @@
     "xsd:string"
   ],
   "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServer": [
-    "",
+    "ims.otenet.gr",
     "xsd:string"
   ],
   "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServerPort": [
@@ -480,7 +480,7 @@
     "xsd:string"
   ],
   "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.OutboundProxy": [
-    "",
+    "ims.otenet.gr",
     "xsd:string"
   ],
   "InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.OutboundProxyPort": [
