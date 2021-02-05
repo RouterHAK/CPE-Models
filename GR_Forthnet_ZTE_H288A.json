@@ -191,6 +191,10 @@
 		"",
 		"xsd:string"
 	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServerPort": [
+		5060,
+		"xsd:unsignedInt"
+	],
 	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.Line.2.SIP.URI": [
 		"",
 		"xsd:string"

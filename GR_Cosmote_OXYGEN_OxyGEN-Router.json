@@ -119,6 +119,14 @@
 		"otenet",
 		"xsd:string"
 	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServer": [
+		"ims.otenet.gr",
+		"xsd:string"
+	],
+	"InternetGatewayDevice.Services.VoiceService.1.VoiceProfile.1.SIP.RegistrarServerPort": [
+		5060,
+		"xsd:unsignedInt"
+	],
 	"InternetGatewayDevice.DeviceInfo.Manufacturer": [
 		"OXYGEN",
 		"xsd:string"
